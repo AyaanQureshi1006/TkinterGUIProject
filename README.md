@@ -70,15 +70,6 @@ data-visualizer/
 3. Select "Bar Chart" or "Histogram".
 4. The visualization will appear in the main window.
 
----
-
-## Screenshots
-- **Main Interface:**
-  - Includes buttons for file selection and checkboxes for chart options.
-- **Plot Area:**
-  - Displays the selected chart in the GUI.
-
-(Include screenshots here if applicable)
 
 ---
 
@@ -93,15 +84,11 @@ data-visualizer/
 - Enhance error handling and user feedback.
 - Add styling options for charts.
 
----
-
-## License
-This project is licensed under the MIT License.
 
 ---
 
 ## Author
 **Your Name**
-- GitHub: [Your GitHub Profile](https://github.com/your-username)
-- Email: your-email@example.com
+- GitHub: [AyaanQureshi1006](https://github.com/AyaanQureshi1006)
+- Email: ayaanalisha59@gmail.com
 
